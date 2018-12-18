@@ -2,8 +2,10 @@
 # Cinesite test 01
 #
 #   Fidel Moreno Miranda
-#      fidelm02@gmailcom
+#     fidelm02@gmail.com
 #	       December 2018
+#
+# ----------------------------------------------------------
 #
 # General Python test:
 #    write a function that finds all animated sequences 
