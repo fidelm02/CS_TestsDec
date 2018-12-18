@@ -11,6 +11,9 @@ Cinesite tests
 	/pyqt/rendering/installation test
 
 
+	the second excersice has its own folder, execute the app_PyQtArnold_RenderTest.py
+
+
 
 
 
